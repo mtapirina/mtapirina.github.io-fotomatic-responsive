@@ -37,12 +37,12 @@ html {
     top: 2.5625rem;
   }
 }
-/*-- main-content position to 'absolut'-- para centrar el contenodo de main-content class */ 
+/*-- main-content position to 'absolut'-- para centrar el contenodo de main-content class  
 @media only screen and (max-width: 450px) {
   .main-content {
     position:absolute;
   }
-}
+}*/
 
 /* Header */
 
