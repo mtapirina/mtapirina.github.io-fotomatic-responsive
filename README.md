@@ -10,5 +10,3 @@ design specs:
 My solution's live version:
 https://mtapirina.github.io/mtapirina.github.io-fotomatic-responsive/
 
-412 px screen Samsung Galaxy A51_71
-![412px screen -(Samsung Galaxy A51_71)](https://github.com/mtapirina/mtapirina.github.io-fotomatic-responsive/assets/116927372/1cc44fe6-0c86-4fe8-a900-9d0bcca39976)
